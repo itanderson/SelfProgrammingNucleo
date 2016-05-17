@@ -1,0 +1,7 @@
+*
+
+!src/**
+!Libraries/**
+!Utilities/**
+!.gitignore
+!README.md

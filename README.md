@@ -1,0 +1,1 @@
+The Nucleo will program itself using data from a serial port
