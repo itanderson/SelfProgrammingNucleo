@@ -5,3 +5,4 @@
 !Utilities/**
 !.gitignore
 !README.md
+!stm32_flash.ld
